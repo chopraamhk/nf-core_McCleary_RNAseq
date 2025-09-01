@@ -16,3 +16,6 @@ python3 make_samplesheet.py -i path/to/folder/where/RNAseq_data/is/available
 Step 3:
 Use local_config.sh
 and run the bash script
+```
+nfcore_bash.sh
+```
