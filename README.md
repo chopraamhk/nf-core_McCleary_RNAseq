@@ -22,5 +22,5 @@ Step 3:
 Use local_config.sh
 and run the bash script
 ```
-nfcore_bash.sh
+sbatch nfcore_bash.sh
 ```
