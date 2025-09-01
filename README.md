@@ -1,5 +1,7 @@
 # nf-core_McCleary_RNAseq
 
+Reference: https://nf-co.re/configs/mccleary/
+
 Step 1: 
 Make a spreadsheet which has header:
 ```
