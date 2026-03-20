@@ -52,7 +52,7 @@ def generate_samplesheet(fastq_dir, output_file):
                 for r1_path, r2_path in pairs:
                     writer.writerow([sample_name, r1_path, r2_path, 'auto'])
         
-        print(f"✅ Samplesheet successfully created at: {output_file}")
+        print(f" Samplesheet successfully created at: {output_file}")
 
     except IOError as e:
         print(f"Error writing to file {output_file}: {e}")
